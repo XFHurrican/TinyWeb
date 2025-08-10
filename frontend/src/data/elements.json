@@ -1,0 +1,105 @@
+{
+  "elements": [
+    {
+      "atomicNumber": 1,
+      "symbol": "H",
+      "name": "Hydrogen",
+      "chineseName": "氢",
+      "category": "Nonmetal",
+      "color": "#4CAF50",
+      "atomicWeight": 1.0079,
+      "physicalProperties": {
+        "meltingPoint": -259.14,
+        "boilingPoint": -252.87,
+        "density": 0.0899,
+        "description": "氢是宇宙中最丰富的元素，常温常压下为无色无味的气体。"
+      }
+    },
+    {
+      "atomicNumber": 2,
+      "symbol": "He",
+      "name": "Helium",
+      "chineseName": "氦",
+      "category": "NobleGas",
+      "color": "#2196F3",
+      "atomicWeight": 4.0026,
+      "physicalProperties": {
+        "meltingPoint": -272.2,
+        "boilingPoint": -268.93,
+        "density": 0.1785,
+        "description": "氦是一种惰性气体，常用于气球和飞艇中。"
+      }
+    },
+    {
+      "atomicNumber": 3,
+      "symbol": "Li",
+      "name": "Lithium",
+      "chineseName": "锂",
+      "category": "AlkaliMetal",
+      "color": "#FF9800",
+      "atomicWeight": 6.941,
+      "physicalProperties": {
+        "meltingPoint": 180.54,
+        "boilingPoint": 1342,
+        "density": 0.534,
+        "description": "锂是一种轻金属，常用于电池制造。"
+      }
+    },
+    {
+      "atomicNumber": 4,
+      "symbol": "Be",
+      "name": "Beryllium",
+      "chineseName": "铍",
+      "category": "AlkalineEarthMetal",
+      "color": "#9C27B0",
+      "atomicWeight": 9.0122,
+      "physicalProperties": {
+        "meltingPoint": 1278,
+        "boilingPoint": 2970,
+        "density": 1.848,
+        "description": "铍是一种钢灰色的轻金属，用于航空航天工业。"
+      }
+    },
+    {
+      "atomicNumber": 5,
+      "symbol": "B",
+      "name": "Boron",
+      "chineseName": "硼",
+      "category": "Metalloid",
+      "color": "#607D8B",
+      "atomicWeight": 10.811,
+      "physicalProperties": {
+        "meltingPoint": 2076,
+        "boilingPoint": 3927,
+        "density": 2.34,
+        "description": "硼是一种类金属元素，用于制造玻璃和陶瓷。"
+      }
+    },
+    {
+      "atomicNumber": 6,
+      "symbol": "C",
+      "name": "Carbon",
+      "chineseName": "碳",
+      "category": "Nonmetal",
+      "color": "#4CAF50",
+      "atomicWeight": 12.0107,
+      "physicalProperties": {
+        "meltingPoint": 3550,
+        "boilingPoint": 4827,
+        "density": 2.267,
+        "description": "碳是有机 chemistry 的基础，以多种形式存在，如金刚石和石墨。"
+      }
+    }
+  ],
+  "categories": {
+    "AlkaliMetal": "碱金属",
+    "AlkalineEarthMetal": "碱土金属",
+    "TransitionMetal": "过渡金属",
+    "PostTransitionMetal": "后过渡金属",
+    "Metalloid": "类金属",
+    "Nonmetal": "非金属",
+    "NobleGas": "惰性气体",
+    "Lanthanide": "镧系元素",
+    "Actinide": "锕系元素"
+  }
+}
